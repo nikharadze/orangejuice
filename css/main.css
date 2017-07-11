@@ -1,0 +1,106 @@
+*{
+padding: 0;
+margin: 0;
+outline: none;
+}
+.orangeBar{
+  background-color: darkorange;
+  height: 100px;
+}
+.logo{
+  padding-top: 15px;
+  margin-left: 50px;
+}
+.logo img{
+  height: 30px;
+  width: 30px;
+}
+.logo h1{
+  display:inline-block;
+  color: Lightgrey;
+  font-family: 'Poiret One', cursive;
+}
+.logo span{
+font-family: sans-serif;
+color:White;
+}
+.logo sup{
+  color:white;
+}
+a{
+  text-decoration: none;
+  color: white;
+  float: right;
+  padding:30px 30px 30px 15px;
+  font-family: sans-serif;
+}
+.searchbar{
+  float:right;
+  display:block;
+  padding: 15px;
+  margin-right: 30px;
+  background-color: lightgrey;
+}
+.icon{
+  float: right;
+  padding-top: 15px;
+  padding-left: 1470px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  position: absolute;
+  color: grey;
+}
+.half{
+  margin-top: 100px;
+  margin-left: 200px;
+  height: 400px;
+  length: 500px;
+  display: inline-block;
+}
+.bottom{
+  height: 89px;
+  width: auto;
+  background-color: turquoise;
+}
+.container-1 h1{
+  margin-top: 20px;
+  float: right;
+  width: 50%;
+  position: absolute;
+  margin-left: 750px;
+  margin-top: -350px;
+  color:orange;
+  font-family: 'Poiret One', cursive;
+}
+.container-1 span{
+font-family: sans-serif;
+color:darkorange;
+}
+.container-1 sup{
+  color:darkorange;
+}
+.button1{
+  background-color: darkorange;
+border: none;
+color: white;
+padding: 15px 32px;
+text-align: center;
+text-decoration: none;
+font-size: 16px;
+position: absolute;
+  margin-left: 50px;
+  margin-top: 350px
+}
+.button2{
+  background-color:turquoise;
+border: none;
+color: white;
+padding: 15px 32px;
+text-align: center;
+text-decoration: none;
+font-size: 16px;
+position: absolute;
+  margin-left: 250px;
+  margin-top: 350px
+}
